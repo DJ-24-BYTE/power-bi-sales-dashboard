@@ -35,4 +35,5 @@ For queries: dharmamukesh428@gmail.com
 
 ## Screenshot:
 ### Dashboard Overview
-dashboard: (screenshot/sales_dashboard.png)
+dashboard: <img width="919" height="505" alt="sales_dashboard" src="https://github.com/user-attachments/assets/d6e3ed7e-f13e-4cd4-bd99-f3e822e9c51d" />
+
