@@ -34,4 +34,4 @@ Created by **Muruganandham**
 For queries: dharmamukesh428@gmail.com  
 
 ## Screenshot:
-[dashboard]: 
+[dashboard]: (screenshot/sales_dashboard.png)
