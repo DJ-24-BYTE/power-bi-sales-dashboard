@@ -34,7 +34,7 @@ Contributions are welcome! If you’d like to improve the dashboard or add featu
 dashboard: <img width="919" height="505" alt="sales_dashboard" src="https://github.com/user-attachments/assets/d6e3ed7e-f13e-4cd4-bd99-f3e822e9c51d" />
 
 ## Usage Steps:
-git clone https://github.com/muruga428/sales-dashboard.git
+git clone https://github.com/DJ-24-BYTE/power-bi-sales-dashboard.git
 
 ## Contact  
 Created by **Muruganandham**  
