@@ -35,4 +35,4 @@ For queries: dharmamukesh428@gmail.com
 
 ## Screenshot:
 ### Dashboard Overview
-[dashboard]: (screenshot/sales_dashboard.png)
+dashboard: (screenshot/sales_dashboard.png)
