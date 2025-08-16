@@ -29,11 +29,11 @@ This project analyzes sales data using Power BI to provide clear visualizations 
 ## Contributions  
 Contributions are welcome! If you’d like to improve the dashboard or add features, fork the repo and submit a pull request.  
 
-## Contact  
-Created by **Muruganandham**  
-For queries: dharmamukesh428@gmail.com  
-
 ## Screenshot:
 ### Dashboard Overview
 dashboard: <img width="919" height="505" alt="sales_dashboard" src="https://github.com/user-attachments/assets/d6e3ed7e-f13e-4cd4-bd99-f3e822e9c51d" />
+
+## Contact  
+Created by **Muruganandham**  
+For queries: dharmamukesh428@gmail.com  
 
